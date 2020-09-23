@@ -9,6 +9,9 @@
   1. Appendicular Skeleton = 126
 
 
+------------------------------------------
+
+
 ## 2nd Level Of Classification
 
 * Skeleton
@@ -18,5 +21,29 @@
      1. Ribs = 24
      1. Vertebra = 33
   1. Appendicular Skeleton = (64 + 62 = 126)
+     1. Pectoral Girdle & Fore Limbs = 64
+     1. Pelvic Girdle & Hind Limbs = 62
+
+
+------------------------------------------
+
+
+## 3rd Level Of Classification
+
+* Skeleton
+  1. Axial Skeleton
+     1. Skull = (8 + 14 = 22)
+        1. Cranial Bones = 8
+        2. Facial Bones = 14
+     1. Hyoid Bone (Neck) = 1
+     1. Ribs = (12 + 12 =24)
+        1. Right Side = 12
+        2. Left Side = 12
+     1. Vertebra = (7 + 12 + 5 + 9 = 33)
+        1. Cervical Vertebra = 7
+        1. Thoracic Vertebra = 12
+        1. Lumbar Vertebra = 5
+        1. Pelvic Vertebra = 9
+  1. Appendicular Skeleton
      1. Pectoral Girdle & Fore Limbs = 64
      1. Pelvic Girdle & Hind Limbs = 62
