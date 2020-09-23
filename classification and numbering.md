@@ -46,4 +46,10 @@
         1. Pelvic Vertebra = 9
   1. Appendicular Skeleton
      1. Pectoral Girdle & Fore Limbs = 64
+        1. Pectoral Girdle = 4
+        1. Arms = 6
+        1. Hands = 54
      1. Pelvic Girdle & Hind Limbs = 62
+        1. Pelvic Girdle = 2
+        1. Legs = 8
+        1. Hands = 52
