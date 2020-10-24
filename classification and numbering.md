@@ -18,11 +18,11 @@
   1. Axial Skeleton = (22 + 1 + 24 + 33 = 80)
      1. Skull = 22
      1. Hyoid Bone (Neck) = 1
-     1. Ribs = 24
+     1. Ribs = {12 x 2} = 24
      1. Vertebra = 33
   1. Appendicular Skeleton = (64 + 62 = 126)
-     1. Pectoral Girdle & Fore Limbs = 64
-     1. Pelvic Girdle & Hind Limbs = 62
+     1. Pectoral Girdle & Fore Limbs = {32 x 2} = 64
+     1. Pelvic Girdle & Hind Limbs = {31 x 2} = 62
 
 
 ------------------------------------------
